@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "boxskore": { "type": "http", "url": "https://boxskore.com/api/mcp" }
+  }
+}

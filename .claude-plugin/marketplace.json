@@ -1,0 +1,12 @@
+{
+  "name": "boxskore-plugins",
+  "description": "The Boxskore plugin for Claude.",
+  "owner": { "name": "Boxskore", "url": "https://boxskore.com" },
+  "plugins": [
+    {
+      "name": "boxskore",
+      "source": "./plugins/boxskore",
+      "description": "Ask Claude about your program's own baseball data in Boxskore."
+    }
+  ]
+}
