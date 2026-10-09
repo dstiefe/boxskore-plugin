@@ -5,6 +5,10 @@ sessions, bullpens, BP, Rapsodo, Blast Motion, Arm Care, Full Swing and force pl
 
 You need a Boxskore coach account. Installing the plugin does not grant access to any data.
 
+Install in Claude Code:
+
+    /plugin install boxskore --marketplace dstiefe/boxskore-plugin
+
 ## What it contains
 
 - **A connector** to Boxskore's server at `https://boxskore.com/api/mcp`. The first time you use
