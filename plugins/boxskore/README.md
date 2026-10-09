@@ -34,4 +34,6 @@ All tools are read-only:
 
 ## Support
 
-https://boxskore.com
+- Help and support: https://boxskore.com/support
+- Privacy policy: https://boxskore.com/privacy
+- Terms of service: https://boxskore.com/terms

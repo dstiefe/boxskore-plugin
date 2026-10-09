@@ -1,10 +1,10 @@
 {
   "name": "boxskore",
   "displayName": "Boxskore",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Ask Claude about your program's own baseball data in Boxskore: TrackMan games and training, bullpens, BP, Rapsodo, Blast Motion, Arm Care, Full Swing and force plates.",
   "author": { "name": "Boxskore", "url": "https://boxskore.com" },
-  "homepage": "https://boxskore.com",
+  "homepage": "https://boxskore.com/support#claude",
   "repository": "https://github.com/dstiefe/boxskore-plugin",
   "license": "MIT",
   "icon": "./icon.png",
